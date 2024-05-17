@@ -19,7 +19,7 @@ repository               : "zhenqi-he/zhenqi-he.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "./images/profile.jpg"
   name             : "Zhenqi"
   pronouns         : # example: "she/her"  
   bio              : "MSc(AI) in HKU | BSc(Math&CS) HKU"
