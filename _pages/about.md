@@ -14,7 +14,7 @@ I am looking for 2015 Spring/Fall PhD opportunities, feel free to contact me if 
 News
 ======
 - 04/24: One co-authored paper accepted to AIME2024!
-- 01/23: Join Huawei Hong Kong Research Center - Theory Lab as a Research Intern
+- 01/24: Join Huawei Hong Kong Research Center - Theory Lab as a Research Intern
 - 06/23: One first-author paper accepted to MICCAI 2023 after rebuttal!
 - 05/23: One first-author paper early-accepted to MICCAI 2023!
 
