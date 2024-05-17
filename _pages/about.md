@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master student majoring AI at The University of Hong Kong(HKU). I aslo graduated from HKU with degree Bachelor in Science(Mathematics). My research interests include Open-World Learning, Computer Vision and AI4Medical. 
+I am currently a Master student majoring in AI at The University of Hong Kong(HKU). I aslo graduated from HKU with degree Bachelor in Science(Mathematics). My research interests include Open-World Learning, Computer Vision and AI4Medical. 
 
 I am looking for 2015 Spring/Fall PhD opportunities, feel free to contact me if you are interested.
 
@@ -27,10 +27,13 @@ Publications
 
 Educations
 ------
-2023 - Present: The University of Hong Kong: Master of Science in Artificial Intelligence
+2023 - Present: **The University of Hong Kong**
+                 Master of Science in Artificial Intelligence
 
-2018 - 2023: The University of Hong Kong: Bachelor of Science (Mathematics & Computer Science)
+2018 - 2023: **The University of Hong Kong**
+                 Bachelor of Science: Major in Mathematics & Computer Science
 
-2019 Jun - Dec: Nanyang Technological University: Exchange Student
+2019 Jun - Dec: **Nanyang Technological University**
+                 Exchange Student
 
 
