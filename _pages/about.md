@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Master student majoring in AI at The University of Hong Kong(HKU). I aslo graduated from HKU with degree Bachelor in Science(Mathematics). My research interests include Open-World Learning, Computer Vision and AI4Medical. 
 
-I am looking for 2015 Spring/Fall PhD opportunities, feel free to contact me if you are interested.
+I am looking for 2025 Spring/Fall PhD opportunities, feel free to contact me if you are interested.
 
 News
 ======
