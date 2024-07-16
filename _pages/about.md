@@ -37,4 +37,4 @@ Educations
 
 Academic Service:
 ======
-MICCAI 2024, DGM4MICCAI 2024
+Conference Reviewer: MICCAI 2024, DGM4MICCAI 2024
