@@ -13,6 +13,7 @@ I am looking for 2025 Spring/Fall PhD opportunities, feel free to contact me if 
 
 News
 ======
+- 04/24: One co-first-authored paper accepted to DGM4MICCAI 2024!
 - 04/24: One co-authored paper accepted to AIME2024!
 - 01/24: Join Huawei Hong Kong Research Center - Theory Lab as a Research Intern
 - 06/23: One first-author paper accepted to MICCAI 2023 after rebuttal!
@@ -23,14 +24,17 @@ Publications
 - TransNuSeg: A Lightweight Multi-Task Transformer for Nuclei Segmentation; **Zhenqi He**, Mathias Unberath, Jing Ke, Yiqing Shen; **MICCAI 2023**  \[[paper](https://arxiv.org/pdf/2307.08051)\] \[[code](https://github.com/zhenqi-he/transnuseg)\] 
 - Artifact Restoration in Histology Images with Diffusion Probabilistic Models; **Zhenqi He**, Junjun He, Jin Ye, Yiqing Shen; **MICCAI 2023**  \[[paper](https://arxiv.org/pdf/2307.14262)\]  \[[code](https://github.com/zhenqi-he/ArtiFusion)\] 
 - Histology Image Artifact Restoration with Lightweight Transformer and Diffusion Model; Chong Wang, **Zhenqi He**, Junjun He, Jin Ye, Yiqing Shen; **AIME 2024**
+- Latent ArtiFusion: a Effective and Efficient Histological Artifacts Restoration Framework; **Zhenqi He\***, Wenrui Liu\*, Minghao Yin, Kai han; **DGM4MICCAI 2024**
   
 
 Educations
-------
+======
 2023 - Present: **The University of Hong Kong** Master of Science in Artificial Intelligence
 
 2018 - 2023: **The University of Hong Kong** Bachelor of Science: Major in Mathematics & Computer Science
 
 2019 Jun - Dec: **Nanyang Technological University** Exchange Student
 
-
+Academic Service:
+======
+MICCAI 2024, DGM4MICCAI 2024
