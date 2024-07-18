@@ -35,6 +35,14 @@ Educations
 
 2019 Jun - Dec: **Nanyang Technological University** Exchange Student
 
+Awards:
+======
+HKU Foundation Entrance Scholarship 2018-2021
+
+C.V. Starr Scholarships
+
+**Champion** (Student Group) of HKSTP SciTech Challenge 2021 - Technology Enabled by Voice 
+
 Academic Service:
 ======
 Conference Reviewer: MICCAI 2024, DGM4MICCAI 2024
