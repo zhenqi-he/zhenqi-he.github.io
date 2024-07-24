@@ -16,7 +16,7 @@ author_profile: true
 </div>
 
 <div class="w3-container">
-<p>This paper proposes a lightweight multi-task framework for nuclei segmentation, namely TransNuSeg, as the first attempt at an entirely Swin-Transformer driven architecture. Innovatively, to alleviate the prediction inconsistency between branches, we propose a self-distillation loss that regulates the consistency between the nuclei decoder and normal edge decoder. And an innovative attention-sharing scheme that shares attention heads amongst all decoders is employed to leverage the high correlation between tasks. [<a href=".. /_publications/TransNuSeg A Lightweight Multi-task Transformer for Nuclei Segmentation.pdf"> paper</a>] [ <a href="https://github.com/zhenqi-he/transnuseg"> code</a> ]</p>
+<p>This paper proposes a lightweight multi-task framework for nuclei segmentation, namely TransNuSeg, as the first attempt at an entirely Swin-Transformer driven architecture. Innovatively, to alleviate the prediction inconsistency between branches, we propose a self-distillation loss that regulates the consistency between the nuclei decoder and normal edge decoder. And an innovative attention-sharing scheme that shares attention heads amongst all decoders is employed to leverage the high correlation between tasks. [<a href="https://zhenqi-he.github.io/_publications/TransNuSeg A Lightweight Multi-task Transformer for Nuclei Segmentation.pdf"> paper</a>] [ <a href="https://github.com/zhenqi-he/transnuseg"> code</a> ]</p>
 </div>
 
 
@@ -28,7 +28,7 @@ author_profile: true
 </div>
 
 <div class="w3-container">
-<p>This is the first attempt at a denoising diffusion probabilistic model for histological artifact restoration, called ArtiFusion. Specifically, ArtiFusion formulates the artifact region restoration as a gradual denoising process, and its training relies solely on artifact-free images to simplify the training complexity. Furthermore, to capture local-global correlations in the regional artifact restoration, a novel Swin-Transformer denoising architecture is designed, along with a time token scheme. Our extensive evaluations demonstrate the effectiveness of ArtiFusion as a pre-processing method for histology analysis, which can successfully preserve the tissue structures and stain style in artifact-free regions during the restoration.[<a href=".. /_publications/Artifact Restoration in Histology Images with Diffusion Probabilistic Models.pdf"> paper</a>] [ <a href="https://github.com/zhenqi-he/ArtiFusion"> code</a> ]</p>
+<p>This is the first attempt at a denoising diffusion probabilistic model for histological artifact restoration, called ArtiFusion. Specifically, ArtiFusion formulates the artifact region restoration as a gradual denoising process, and its training relies solely on artifact-free images to simplify the training complexity. Furthermore, to capture local-global correlations in the regional artifact restoration, a novel Swin-Transformer denoising architecture is designed, along with a time token scheme. Our extensive evaluations demonstrate the effectiveness of ArtiFusion as a pre-processing method for histology analysis, which can successfully preserve the tissue structures and stain style in artifact-free regions during the restoration.[<a href="https://zhenqi-he.github.io/Artifact Restoration in Histology Images with Diffusion Probabilistic Models.pdf"> paper</a>] [ <a href="https://github.com/zhenqi-he/ArtiFusion"> code</a> ]</p>
 </div>
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
