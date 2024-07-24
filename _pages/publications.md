@@ -10,7 +10,7 @@ author_profile: true
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b> TransNuSeg: A Lightweight Multi-Task Transformer for Nuclei Segmentation </b><i>MICCAI 2023</i> </h2>
+<h2><b> TransNuSeg: A Lightweight Multi-Task Transformer for Nuclei Segmentation </b><i> MICCAI 2023</i> </h2>
 <div>
 <img src="https://zhenqi-he.github.io/images/TransNuSeg_Model.png" alt="TransNuSeg Model Architecture" class="responsivepost">
 </div>
@@ -22,7 +22,7 @@ author_profile: true
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b>Artifact Restoration in Histology Images with Diffusion Probabilistic Models</b><i>MICCAI 2023</i> </h2>
+<h2><b>Artifact Restoration in Histology Images with Diffusion Probabilistic Models </b><i> MICCAI 2023</i> </h2>
 <div>
 <img src="https://zhenqi-he.github.io/images/artifusion.png" alt="Reconstructed Visualized Results" class="responsivepost">
 </div>
@@ -33,7 +33,7 @@ author_profile: true
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b> LatentArtiFusion: an Effective and Efficient Histological Artifacts Restoration Framework </b><i>DGM4MICCAI 2024</i> </h2>
+<h2><b> LatentArtiFusion: an Effective and Efficient Histological Artifacts Restoration Framework </b><i> DGM4MICCAI 2024</i> </h2>
 <div>
 <img src="https://zhenqi-he.github.io/images/LatentArtifusion.png" alt="LatentArtiFusion Model Architecture" class="responsivepost">
 </div>
