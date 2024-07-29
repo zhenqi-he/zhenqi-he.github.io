@@ -42,3 +42,15 @@ author_profile: true
 <p>In this paper, we propose a novel framework, namely LatentArtiFusion, which leverages the latent diffusion model (LDM) to reconstruct histological artifacts with high performance and computational efficiency. Unlike traditional pixel-level diffusion frameworks, LatentArtiFusion executes the restoration process in a lower-dimensional latent space, significantly improving computational efficiency. Through extensive experiments on real-world histology datasets, LatentArtiFusion demonstrates remarkable speed, outperforming state-of-the-art pixel-level diffusion frameworks by more than 30×.  [<a href="https://github.com/bugs-creator/LatentArtiFusion"> code</a>]</p>
 </div>
 </div>
+
+<div class="w3-card-4 w3-margin w3-Dark Gray">
+<div class="w3-container w3-Dark Gray">
+<h2><b> Histology Image Artifact Restoration with Lightweight Transformer Based Diffusion Model </b><i> AIME 2024</i> </h2>
+<div>
+<img src="https://zhenqi-he.github.io/images/AIME.png" alt="Model Architecture" class="responsivepost">
+</div>
+
+<div class="w3-container">
+<p>In this paper, we propose a lightweight transformer based framework for histological artifacts restoration. In comparison to existing generative adversarial network (GAN) based solutions, our method minimizes changes in morphology while maximizing preservation of the stain style during the restoration of the artifact. By providing a more reliable and accurate restoration of artifact-affected areas, our model facilitates better analysis and interpretation of histological images, thereby potentially improving the accuracy of tumor diagnosis and treatment decisions. [<a href="https://zhenqi-he.github.io/files/AIME_paper.pdf"> paper</a>] [<a href=" https://github.com/zhenqi-he/artifact-restoration"> code</a>]</p>
+</div>
+</div>

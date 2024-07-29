@@ -23,8 +23,8 @@ Publications
 ======
 - TransNuSeg: A Lightweight Multi-Task Transformer for Nuclei Segmentation; **Zhenqi He**, Mathias Unberath, Jing Ke, Yiqing Shen; **MICCAI 2023**  \[[paper](https://arxiv.org/pdf/2307.08051)\] \[[code](https://github.com/zhenqi-he/transnuseg)\] 
 - Artifact Restoration in Histology Images with Diffusion Probabilistic Models; **Zhenqi He**, Junjun He, Jin Ye, Yiqing Shen; **MICCAI 2023**  \[[paper](https://arxiv.org/pdf/2307.14262)\]  \[[code](https://github.com/zhenqi-he/ArtiFusion)\] 
-- Histology Image Artifact Restoration with Lightweight Transformer and Diffusion Model; Chong Wang, **Zhenqi He**, Junjun He, Jin Ye, Yiqing Shen; **AIME 2024**
-- Latent ArtiFusion: a Effective and Efficient Histological Artifacts Restoration Framework; **Zhenqi He\***, Wenrui Liu\*, Minghao Yin, Kai Han (\*: Equal Contribution); **DGM4MICCAI 2024**
+- Histology Image Artifact Restoration with Lightweight Transformer and Diffusion Model; Chong Wang, **Zhenqi He**, Junjun He, Jin Ye, Yiqing Shen; **AIME 2024** \[[paper](https://zhenqi-he.github.io/files/AIME_paper.pdf)\] \[[code](https://github.com/zhenqi-he/artifact-restoration)\] 
+- Latent ArtiFusion: a Effective and Efficient Histological Artifacts Restoration Framework; **Zhenqi He\***, Wenrui Liu\*, Minghao Yin, Kai Han (\*: Equal Contribution); **DGM4MICCAI 2024** 
   
 
 Educations
