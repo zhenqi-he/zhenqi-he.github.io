@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master student majoring in AI at The University of Hong Kong(HKU). I aslo graduated from HKU with degree Bachelor in Science(Mathematics). My research interests include Open-World Learning, Computer Vision and AI4Medical. 
+I am currently a Master student majoring in AI at The University of Hong Kong(HKU). I aslo graduated from HKU with degree Bachelor in Science(Mathematics). My research interests include Open-World Learning, Computer Vision and AI4Science. 
 
 I am looking for 2025 Spring/Fall PhD opportunities, feel free to contact me if you are interested.
 
 News
 ======
+- 11/24: One Second-authored paper accepted to COLING 2025!
 - 07/24: One co-first-authored paper accepted to DGM4MICCAI 2024!
 - 04/24: One co-authored paper accepted to AIME2024!
 - 01/24: Join Huawei Hong Kong Research Center - Theory Lab as a Research Intern
@@ -25,6 +26,7 @@ Publications
 - Artifact Restoration in Histology Images with Diffusion Probabilistic Models; **Zhenqi He**, Junjun He, Jin Ye, Yiqing Shen; **MICCAI 2023**  \[[paper](https://arxiv.org/pdf/2307.14262)\]  \[[code](https://github.com/zhenqi-he/ArtiFusion)\] 
 - Histology Image Artifact Restoration with Lightweight Transformer and Diffusion Model; Chong Wang, **Zhenqi He**, Junjun He, Jin Ye, Yiqing Shen; **AIME 2024** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-66535-6_9)\] \[[code](https://github.com/zhenqi-he/artifact-restoration)\] 
 - Latent ArtiFusion: a Effective and Efficient Histological Artifacts Restoration Framework; **Zhenqi He\***, Wenrui Liu\*, Minghao Yin, Kai Han (\*: Equal Contribution); **DGM4MICCAI 2024** \[[paper](https://arxiv.org/pdf/2407.20172)\] \[[code](https://github.com/bugs-creator/LatentArtiFusion)\]
+- Large Language Models are Good Multi-lingual Learners: When LLMs Meet Cross-lingual Prompts; Teng Wang, **Zhenqi He**, Wing-Yin Yu, Xiaojin Fu, Xiongwei Han; **COLING 2025** \[[paper](https://arxiv.org/pdf/2409.11056)\]
 
 
 Educations
